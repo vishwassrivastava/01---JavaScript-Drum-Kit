@@ -1,0 +1,122 @@
+body
+{
+  background-image:url("background.jpg");
+
+}
+.a
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left :5rem;
+  width: 8rem;
+  background-color: black;
+
+  color: yellow;
+border-color: black;
+}
+.s
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:15rem;
+  width: 8rem;
+  background-color: black;
+  color: yellow;
+border-color: black;
+}
+.d
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:25rem;
+      width: 8rem;
+      background-color: black;
+
+      color: yellow;
+border-color: black;
+}
+.f
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:35rem;
+      width: 8rem;
+      background-color: black;
+
+      color: yellow;
+border-color: black;
+}
+.g
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:45rem;
+    width: 8rem;
+    background-color: black;
+
+    color: yellow;
+border-color: black;
+}
+.h
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:55rem;
+  width: 8rem;
+  background-color: black;
+
+  color: yellow;
+border-color: black;
+}
+.j
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:65rem;
+  width: 8rem;
+  background-color: black;
+
+  color: yellow;
+border-color: black;
+}
+.k
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:75rem;
+  width: 8rem;
+  background-color: black;
+
+  color: yellow;
+border-color:black ;
+
+
+}
+.l
+{
+  text-align:center;
+  position: absolute;
+  top: 50%;
+  left:85rem;
+  width: 8rem;
+  background-color: black;
+
+  color: yellow;
+border-color: black;
+}
+.white
+{
+  color: white;
+}
+.a:hover,.s:hover,.d:hover,.f:hover,.g:hover,.h:hover,.k:hover,.l:hover,.j:hover{
+  border-color: red;
+  color: red;
+}
